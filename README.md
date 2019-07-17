@@ -1,5 +1,5 @@
 # ResistorValidator
-A kata to develop a program that validates a resistor's tolerances.
+##A kata to develop a program that validates a resistor's tolerances.
 
 A resistor is a ubiquitous component found in all kinds of electronic equipment.  Resistors are marked with between 3 and 5 colored stripes that are used to indicate the resistance value and tolerance.  For a three- or four-stripped resistor, the first two stripes represent the first two digits of the resistance in ohms, the third represents a multiplier, and the fourth represents the tolerance (which, if absent, denotes ±20%).  For a five-stripped resistor, the first three stripes represent the first three digits of the resistance in ohms, the fourth represents a multiplier, and the fifth represents the tolerance.  Each color represents a specific numeric value.  
 
